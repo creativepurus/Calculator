@@ -8,7 +8,7 @@
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+project+aims+to+;✨+I+am+constantly+adding+new+contents.;+💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+project+is+a+simple+calculator+application+implemented+in+C#.;✨+I+am+constantly+adding+new+contents.;+💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 # 📚 Table of Contents
 ### 🔰 [ABOUT](#about)
@@ -22,15 +22,31 @@
 <br> </br>
 
 # ABOUT
+### Welcome to the Calculator repository! 
+### This project is a simple calculator application implemented in C#. It provides a user-friendly interface for performing basic mathematical calculations, making it a handy tool for students, professionals, or anyone in need of quick arithmetic operations.
 
 # FEATURES
+- ### Basic arithmetic operations: The calculator supports essential mathematical operations, including addition, subtraction, multiplication, and division. It enables users to perform calculations with ease, helping them save time and effort.
+
+- ### Memory functionality: The application includes a memory feature that allows users to store and recall values during their calculations. This feature comes in handy when working with complex equations or when multiple intermediate results need to be stored.
+
+- ### Error handling: The calculator application incorporates error handling mechanisms to ensure smooth and accurate calculations. It provides appropriate error messages and prevents any unexpected behavior caused by invalid inputs or unsupported operations.
+
+- ### Responsive design: The user interface of the calculator is designed to be responsive, adapting to different screen sizes and resolutions. It offers a pleasant user experience across various devices, including desktop computers, laptops, tablets, and mobile phones.
 
 # GETTING STARTED
-### To get started, follow these steps:
+### To start using the Calculator application, follow these steps:
 
+- ### Clone or download the repository: Begin by cloning or downloading the Calculator repository from [GitHub](https://github.com/creativepuru/Calculator) You can use your preferred method, such as the command line or the GitHub web interface.
+
+- ### Open the project: Open the repository in your preferred Integrated Development Environment (IDE) or text editor that supports C# development. Ensure that you have the necessary tools and dependencies installed.
+
+- ### Build and run the application: Build the project in your IDE to compile the source code. Once successfully built, run the application to launch the calculator interface. You should now be able to perform calculations using the calculator's functionalities.
+
+- ### Explore and use the features: Familiarize yourself with the calculator's interface and available features. Try performing various calculations to verify that everything is functioning as expected. Feel free to experiment and provide feedback or suggestions for improvements.
 
 # CONTRIBUTING
-### Contributions to the repository are more than welcome! If you find a bug, have an idea for an improvement, or want to add new features, please open an issue in the GitHub repository. You can also submit pull requests with your changes.
+### Contributions to the Calculator project are highly appreciated! If you find any bugs, have ideas for new features, or want to enhance existing functionalities, please open an issue in the GitHub repository. Additionally, you can submit pull requests with your proposed changes, ensuring they align with the project's guidelines and coding standards.
 
 ### We welcome contributions from the community.
 
@@ -40,7 +56,7 @@
 - Push to the branch (git push origin feature/awesome-feature)
 - Create a pull request
 
-### We believe in fostering a welcoming and inclusive community, so please make sure to review our code of conduct before participating in any discussions or contributing to the project.
+### We believe in fostering a welcoming and inclusive community, so please make sure to review our [code of conduct](https://github.com/creativepuru/Calculator/blob/master/LICENSE.txt) before participating in any discussions or contributing to the project.
 
 # SOCIAL LINKS
 
