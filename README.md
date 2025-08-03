@@ -1,4 +1,4 @@
-> [![Purushottam Anand ???? on GitHub ?](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand ???? on GitHub ?")
+> [![Purushottam Anand ???? on GitHub ?](https://github.com/creativepuru.png?size=100)](https://github.com/creativepurus "Purushottam Anand on GitHub")
 
 <b>
 
